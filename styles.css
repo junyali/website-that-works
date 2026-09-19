@@ -10,7 +10,6 @@ body {
 }
 
 a {
-	border-top: 1px solid #444444;
 	color: #444444;
 	text-decoration: none;
 }
@@ -31,4 +30,9 @@ a {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+	border-top: 1px solid #444444;
+}
+
+.contacts li a {
+	border-bottom: 1px solid #444444;
 }
