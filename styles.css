@@ -36,3 +36,17 @@ a {
 .contacts li a {
 	border-bottom: 1px solid #444444;
 }
+
+.projects-list {
+	list-style-type: none;
+	padding-left: 1rem;
+}
+
+.project {
+	h3 {
+		display: inline;
+	}
+	li p {
+		margin-bottom: 0;
+	}
+}
