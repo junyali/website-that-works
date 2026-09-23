@@ -45,6 +45,7 @@ a {
 .project {
 	h3 {
 		display: inline;
+		text-decoration: underline;
 	}
 	li p {
 		margin-bottom: 0;
